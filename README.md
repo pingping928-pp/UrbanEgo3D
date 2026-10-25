@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="all_tasks_verified.png" alt="Examples of the thirteen UrbanEgo3D tasks across Perception, Metric, and Reasoning." width="100%" />
+  <img src="assets/all_tasks_verified.png" alt="Examples of the thirteen UrbanEgo3D tasks across Perception, Metric, and Reasoning." width="100%" />
 </p>
 <p align="center"><sub>Observer-centered urban spatial questions across Perception, Metric, and Reasoning.</sub></p>
 
@@ -44,7 +44,7 @@
 The benchmark contains **13,998 question–answer pairs** from **12 geographically disjoint urban regions** and **688 real observation positions**. Its task hierarchy comprises **three capability families**, **eight dimensions**, and **thirteen tasks**.
 
 <p align="center">
-  <img src="维度图.png" alt="UrbanEgo3D task hierarchy with three capability families, eight dimensions, and thirteen tasks." width="80%" />
+  <img src="assets/维度图.png" alt="UrbanEgo3D task hierarchy with three capability families, eight dimensions, and thirteen tasks." width="80%" />
 </p>
 <p align="center"><sub>Three-level task hierarchy. Brackets indicate question–answer counts.</sub></p>
 
@@ -68,7 +68,7 @@ The benchmark contains **13,998 question–answer pairs** from **12 geographical
 **EgoMetric-LMM** combines street-view semantics with observer-relative geometry for urban spatial question answering.
 
 <p align="center">
-  <img src="method.png" alt="EgoMetric-LMM architecture and its observer-relative positional encoding, question-guided cross-attention, and physical-evidence supervision with consistency objectives." width="100%" />
+  <img src="assets/method.png" alt="EgoMetric-LMM architecture and its observer-relative positional encoding, question-guided cross-attention, and physical-evidence supervision with consistency objectives." width="100%" />
 </p>
 <p align="center"><sub>Model architecture and training objectives. The local 3D view and attention patterns are schematic.</sub></p>
 
