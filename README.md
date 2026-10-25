@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><strong>UrbanEgo3D: Observer-Centered Urban Spatial Understanding<br />from Street Views and Local Point Clouds</strong></h2>
+  <h2><strong>UrbanEgo3D: Observer-Centered Urban Spatial Understanding from Real Street Views and Local Point Geometry</strong></h2>
   <h5>
     <em>Yiping Song<sup>1</sup>, Qingyu Li<sup>2</sup></em><br /><br />
     <sup>1</sup> Naval University of Engineering<br />
