@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/overview.png" alt="UrbanEgo3D overview: street-view images and local point clouds support observer-centered Perception, Metric, and Reasoning." width="100%" />
+  <img src="overview.png" alt="UrbanEgo3D overview: street-view images and local point clouds support observer-centered Perception, Metric, and Reasoning." width="100%" />
 </p>
 <p align="center"><sub>Paired street views and local point clouds, with the observer as the spatial reference. The 3D rendering, coordinate glyphs, and example answers are illustrative.</sub></p>
 
@@ -60,7 +60,7 @@ The benchmark contains **13,998 question–answer pairs** from **12 urban region
 **EgoMetric-LMM** combines street-view semantics with observer-relative geometry for urban spatial question answering.
 
 <p align="center">
-  <img src="assets/method.png" alt="EgoMetric-LMM architecture with observer-relative positional encoding, question-guided cross-attention, and physical-evidence supervision with consistency objectives." width="100%" />
+  <img src="method.png" alt="EgoMetric-LMM architecture with observer-relative positional encoding, question-guided cross-attention, and physical-evidence supervision with consistency objectives." width="100%" />
 </p>
 <p align="center"><sub>Model architecture and training objectives. The local 3D view and attention patterns are schematic.</sub></p>
 
@@ -99,4 +99,4 @@ Download instructions and applicable licensing information will accompany the re
 
 ## 🙏 Acknowledgements
 
-The README layout is adapted from the project presentation of [GeoLLaVA-8K](https://github.com/MiliLab/GeoLLaVA-8K) and [XLRS-Bench](https://github.com/AI9Stars/XLRS-Bench). Project descriptions, figures, and results on this page are specific to UrbanEgo3D and EgoMetric-LMM.
+
